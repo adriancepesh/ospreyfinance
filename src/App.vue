@@ -10,6 +10,8 @@
       <nav>
 <!--        <RouterLink to="/">Home</RouterLink>-->
 <!--        <RouterLink to="/about">About</RouterLink>-->
+        <h1>Hello word
+        </h1>
       </nav>
     </div>
   </header>
